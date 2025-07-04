@@ -19,7 +19,7 @@ export default defineConfig({
     monkey({
       entry: 'src/main.ts',
       userscript: {
-        icon: 'https://vitejs.dev/logo.svg',
+        icon: 'https://raw.githubusercontent.com/Hydrostic/NWPU-EAMS-helper/refs/heads/main/src/assets/nwpu_logo.svg',
         namespace: 'InsolubleHCO3/nwpu-eams-helper',
         match: ['https://jwxt.nwpu.edu.cn/student/home'],
       },
