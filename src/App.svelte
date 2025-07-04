@@ -2,7 +2,7 @@
 import Index from './views/Index.svelte';
 import AutoEvaluation from './views/AutoEvaluation.svelte';
 import TextbookOverview from './views/TextbookOverview.svelte';
-import NWPULogo from './assets/nwpu_logo.svg';
+import NWPULogo from './assets/nwpu_logo.png';
 import { IconMinus } from '@tabler/icons-svelte';
 const componentMap = {
   'INDEX': Index,
